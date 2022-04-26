@@ -4,7 +4,7 @@
 I'm in Group 3    
 -----
 * OSSL is fun
-* 
+
 22000527 shL changed!
 
 =======
